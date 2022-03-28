@@ -1,0 +1,30 @@
+h1, .menu, .centrar{
+    text-align: center;
+}
+
+.menu ol {
+    text-align: left;
+    display: inline-block;
+    font-size: 40px;
+}
+
+a {
+    text-decoration: none;
+}
+
+#formu {
+    margin: 10px auto;
+    width: 600px;
+}
+table {
+    background-color: white;
+    text-align: left;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th,td {
+    
+    border: solid 1px black;
+    padding: 5px;
+}
